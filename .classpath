@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/apache-tomcat-10.1.8.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-core-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-core-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-core-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-core-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-core-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-core-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-exception-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-exception-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-legacy-exception-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-neuralnet-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-neuralnet-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-neuralnet-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-transform-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-transform-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-math4-transform-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-angle-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-angle-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-angle-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-arrays-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-arrays-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-arrays-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-combinatorics-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-combinatorics-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-combinatorics-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-complex-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-complex-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-complex-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-core-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-core-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-field-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-field-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-field-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-fraction-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-fraction-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-fraction-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-gamma-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-gamma-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-gamma-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-primes-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-primes-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-primes-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-quaternion-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-quaternion-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-quaternion-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-rootfinder-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-rootfinder-1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-numbers-rootfinder-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-client-api-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-client-api-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-client-api-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-core-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-core-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-core-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-sampling-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-sampling-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-sampling-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-simple-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-simple-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/commons-rng-simple-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/lib-20231022T132142Z-001/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
